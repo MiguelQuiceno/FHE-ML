@@ -7,17 +7,17 @@ homomorfa.
 cuadrados.
 
 ## Reparticion de tareas(Puede cambiar)
-- _Mariana:_ La parte teórica de Gentry y expone.
+- __Mariana:__ La parte teórica de Gentry y expone.
   
-- _Dieguito <3:_ Hace la parte teórica de Zama LWE.
+- __Dieguito <3:__ Hace la parte teórica de Zama LWE.
   
-- _Joan y Quiceno:_ Hacen la implementación de la librería y los modelos.
+- __Joan y Quiceno:__ Hacen la implementación de la librería y los modelos.
   
 ## Tareas semana 19/01 - 26/01
-- _Joan y Quiceno:_ Entender la librería y ver que no nos vayamos a embalar. 
+- __Joan y Quiceno:__ Entender la librería y ver que no nos vayamos a embalar. 
 Implementar los ejemplos de los docs de la librería
 
-- _Dieguito <3:_ Explicarnos como funciona lo de Zama con código en un cuaderno.
+- __Dieguito <3:__ Explicarnos como funciona lo de Zama con código en un cuaderno.
 Funciones básicas como el producto exterior.
 
-- _Mariana:_ GitHub desktop instalado, y va a hacer un commit.
+- __Mariana:__ GitHub desktop instalado, y va a hacer un commit.
