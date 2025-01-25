@@ -9,7 +9,7 @@ cuadrados.
 ## Reparticion de tareas(Puede cambiar)
 - __Mariana:__ La parte teórica de Gentry y mime.
   
-- __Dieguito <3:__ Hace la parte teórica de Zama LWE y expone.
+- __Dieguito <3:__ Hace la parte teórica de Zama LWE y expone y hace todo :v.
   
 - __Joan y Quiceno:__ Hacen la implementación de la librería y los modelos.
   
